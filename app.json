@@ -1,7 +1,7 @@
 {
   "name": "TG-WhatsApp",
   "description": "Realtime bridge between WhatsApp -Telegram.",
-  "repository": "https://github.com/subinps/TG-WhatsApp",
+  "repository": "https://github.com/virtualunionsex/TG-WhatsApp",
   "keywords": ["telegram", "whatsapp-bot", "whatsapp"],
   "stack": "container",
   "env": {
